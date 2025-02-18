@@ -42,8 +42,6 @@ Ideally, vis a vis the community contribution to build the Memorecord platform, 
 
  [Chapter 4, The historian’s kitchen, or how to cook your memories? Interpreting Memorecord’s Memory Harvest](#f-03-introduction-chapter-4-the)discusses the actual results of the case study, the memories in the broader context of history of immigration in Luxembourg with particular focus on Italian and Portuguese immigrants. The chapter regards the interpretation of the collected memories as a sort of experiment inside the experiment, playing with the metaphor of cooking. The first section of the chapter offers an overview of the framework engaged for the interpretation phase of the project: mediated memories, technologies of memory, a summary of the crowdsourced memories and a brief consideration on digital ethnography, i.e. *the kitchen*, with its tools and ingredients. Next an overview of what we have *on the menu, i.e.* historical contextualisation of the Italian and Portuguese immigration is presented, articulated with other sources gathered during the research, with highlight for the oral history interviews conducted during the community sensitisation activity, the atelier *Racontez Votre Histoire de Vie.* The last section focuses exclusively on the interpretations of the crowdsourced memories – the cooking – and brings insights on the particularities of working with digital-born material and their evidentiary value in the context of the Memorecord project.
 
-Test.
-
 [^footnote-ref-fn-03-introduction-1]:  PubMemo, available on <http://pubmemo.uni.lu/>, using the Manifold platform for scholarly publishing <https://manifoldapp.org/>. 
 
 
