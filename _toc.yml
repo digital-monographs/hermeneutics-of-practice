@@ -1,0 +1,11 @@
+format: jb-book
+root: 00_index
+chapters:
+  - file: 01_abstract
+  - file: 02_acknowledgements
+  - file: 03_introduction
+  - file: 04_chapter-1-epistemic-virtues-and-the-foundations-of-historical-practice
+  - file: 05_chapter-2-the-memorecord-experiment-a-study-in-digital-public-history
+  - file: 06_chapter-3-analysing-digital-methods-a-return-to-hermeneutics
+  - file: 07_chapter-4-the-historians-kitchen-or-how-to-cook-your-memories
+  - file: 08_conclusion-bridging-hermeneutics-and-practice-in-the-digital-age
