@@ -2,12 +2,6 @@
 
 ## Chapters
 
-:::{note}
-
-TODO: paste some image using the {margin} directive
-
-:::
-
 ::::{grid}  
 :gutter: 3  
 :::{grid-item-card} Chapter 1  
